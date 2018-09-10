@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="46" started-at="2018-09-07T07:30:49Z" finished-at="2018-09-07T07:30:49Z">
+  <suite name="Suite" duration-ms="65" started-at="2018-09-10T06:49:42Z" finished-at="2018-09-10T06:49:43Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="46" started-at="2018-09-07T07:30:49Z" finished-at="2018-09-07T07:30:49Z">
+    <test name="Test" duration-ms="65" started-at="2018-09-10T06:49:42Z" finished-at="2018-09-10T06:49:43Z">
       <class name="com.mavendemo.interns.mvnclass">
-        <test-method status="PASS" signature="print()[pri:0, instance:com.mavendemo.interns.mvnclass@60285225]" name="print" duration-ms="14" started-at="2018-09-07T07:30:49Z" finished-at="2018-09-07T07:30:49Z">
+        <test-method status="PASS" signature="print()[pri:0, instance:com.mavendemo.interns.mvnclass@5f3a4b84]" name="print" duration-ms="10" started-at="2018-09-10T06:49:43Z" finished-at="2018-09-10T06:49:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- print -->

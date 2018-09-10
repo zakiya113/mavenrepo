@@ -7,6 +7,7 @@ public class mvnclass {
 	@Test()
 	public void print(){
 		System.out.println("This is mvn class");
+		System.out.println("This is mvn class1");
 		System.out.println();
 	}
 }
